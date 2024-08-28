@@ -276,6 +276,12 @@ As in: OOPs I used Java!
 
 ---
 
+**Q:** Why dogs like Git?
+
+**A:** Because they can fetch.
+
+---
+
 **Q:** A SQL query goes into a bar, walks up to two tables and asks:
 
 **A:** Can I JOIN you?
