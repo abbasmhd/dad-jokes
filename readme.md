@@ -1089,3 +1089,6 @@ want about to a race conditions hear joke?
 
 The TypeScript haters say that `any` other language is better. I guess they haven't went into the `unknown` to learn Brainfuck.
 
+---
+
+A new feature was added to a JS framework, but I'd need time to properly React to it.
