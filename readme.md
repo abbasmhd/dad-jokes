@@ -1078,3 +1078,9 @@ want about to a race conditions hear joke?
 **Q:** Why do Jack and Jill like `git` so much?
 
 **A:** They use it to Go up the hill and `fetch` `<a>` pile of water `</a>`.
+
+---
+
+**Q:** What are iOS developers' favorite singer?
+
+**A:** Taylor *Swift*.
