@@ -1048,6 +1048,13 @@ XML solves this problem by being readable to neither.
 
 ---
 
+**Q:** What was Elsa's advice about deprecated font commands in LaTeX
+(section 2.1.1 at [l2tabuen](https://ctan.math.utah.edu/ctan/tex-archive/info/l2tabu/english/l2tabuen.pdf))?
+
+**A:** Let `\it` Go.
+
+---
+
 **Q:** What do you call a 3.14 meters long snake?
 
 **A:** Python.
