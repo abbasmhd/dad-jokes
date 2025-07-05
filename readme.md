@@ -1084,3 +1084,8 @@ want about to a race conditions hear joke?
 **Q:** What are iOS developers' favorite singer?
 
 **A:** Taylor *Swift*.
+
+---
+
+The TypeScript haters say that `any` other language is better. I guess they haven't went into the `unknown` to learn Brainfuck.
+
