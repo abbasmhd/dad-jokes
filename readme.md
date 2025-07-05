@@ -1099,3 +1099,9 @@ The TypeScript haters say that `any` other language is better. I guess they have
 ---
 
 A new feature was added to a JS framework, but I'd need time to properly React to it.
+
+---
+
+**Q:** What do you call a modern JavaScript parrot running on an old browser?
+
+**A:** A *poly*fill.
