@@ -1098,7 +1098,7 @@ The TypeScript haters say that `any` other language is better. I guess they have
 
 ---
 
-A new feature was added to a JS framework, but I'd need time to properly React to it.
+A new JS framework just dropped, but I'd need time to properly React to it.
 
 ---
 
@@ -1108,4 +1108,4 @@ A new feature was added to a JS framework, but I'd need time to properly React t
 
 ---
 
-I've been `tkinter`ing with various GUI frameworks recently.
+I like to `tkinter` with with various GUI frameworks.
