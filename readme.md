@@ -1094,7 +1094,7 @@ want about to a race conditions hear joke?
 
 ---
 
-The TypeScript haters say that `any` other language is better. I guess they haven't went into the `unknown` to learn Brainfuck.
+The TypeScript haters say that `any` other language is better. I guess they have a bunch of `unknown` type safety bugs in their JS code.
 
 ---
 
