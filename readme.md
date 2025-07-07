@@ -1104,3 +1104,13 @@ A new JS framework just dropped, but I'd need time to properly React to it.
 ---
 
 I like to `tkinter` with with various GUI frameworks.
+
+---
+
+Blindly trusting that 100% code coverage implies perfect tests is [`tox`](tox.wiki)ic.
+
+---
+
+**Q:** What do you call a programmer who writes a lot of tests?
+
+**A:** An `assert`ive programmer.
