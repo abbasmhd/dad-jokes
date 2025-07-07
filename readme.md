@@ -1085,7 +1085,7 @@ want about to a race conditions hear joke?
 
 ---
 
-**Q:** What are iOS developers' favorite singer?
+**Q:** What are iOS developers's favorite singer?
 
 **A:** Taylor *Swift*.
 
