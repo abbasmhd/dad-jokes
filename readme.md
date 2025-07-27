@@ -1095,7 +1095,7 @@ I like to `tkinter` with with various GUI frameworks.
 
 ---
 
-Blindly trusting that 100% code coverage implies perfect tests is [`tox`](tox.wiki)ic.
+Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
