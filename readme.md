@@ -1076,7 +1076,7 @@ want about to a race conditions hear joke?
 
 ---
 
-**Q:** What are iOS developers's favorite singer?
+**Q:** Who is the most popular musician according to iOS developers?
 
 **A:** Taylor *Swift*.
 
