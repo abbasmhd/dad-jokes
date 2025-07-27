@@ -1091,7 +1091,7 @@ A new JS framework just dropped, but I'd need time to properly React to it.
 ---
 
 
-I like to `tkinter` with with various GUI frameworks.
+I like to `tkinter` with various GUI frameworks.
 
 ---
 
