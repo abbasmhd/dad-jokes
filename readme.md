@@ -1090,11 +1090,6 @@ A new JS framework just dropped, but I'd need time to properly React to it.
 
 ---
 
-**Q:** What do you call a modern JavaScript parrot running on an old browser?
-
-**A:** A *poly*fill.
-
----
 
 I like to `tkinter` with with various GUI frameworks.
 
