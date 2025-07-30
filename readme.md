@@ -1073,5 +1073,35 @@ want about to a race conditions hear joke?
 
 **A:** Dependency Day
 
+
+---
+
+**Q:** Who is the most popular musician according to iOS developers?
+
+**A:** Taylor *Swift*.
+
+---
+
+The TypeScript haters say that `any` other language is better. I guess they have a bunch of `unknown` type safety bugs in their JS code.
+
+---
+
+A new JS framework just dropped, but I'd need time to properly React to it.
+
+---
+
+
+I like to `tkinter` with various GUI frameworks.
+
+---
+
+Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
+
+---
+
+**Q:** What do you call a programmer who writes a lot of tests?
+
+**A:** An `assert`ive programmer.
+
 ---
 
