@@ -1105,3 +1105,8 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
+**Q:** What do Developers call a New Year's Eve party?
+
+**A:** A countdown function.
+
+---
